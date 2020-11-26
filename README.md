@@ -1,6 +1,6 @@
 # bmi_calculator
 
-BMI_CALCULATOR APP
+BMI_CALCULATOR in flutter
 
 ## Getting Started
 
