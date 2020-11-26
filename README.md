@@ -1,5 +1,4 @@
-:warning: Under Developement
-!! This Project is under development....
+:warning: This Project is under development yet....
 
 # Introduction
 
